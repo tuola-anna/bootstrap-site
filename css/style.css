@@ -1,0 +1,11 @@
+.header{
+    min-height:100px;
+}
+.nav{
+    background: lavenderblush;
+    min-height:300px;
+}
+.content{
+    background: lightblue;
+    min-height:300px;
+}
